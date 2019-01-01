@@ -1,0 +1,5 @@
+This is a test
+#incl(test_a.txt)
+within a #incl(test_b.txt) line
+What about a partial like #inc, #in,
+or lacking a filename like #incl()?
